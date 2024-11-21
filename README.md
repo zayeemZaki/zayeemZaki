@@ -9,8 +9,8 @@ B.Sc. in Computer Science | GPA: <ins>3.7</ins> | Expected <ins>Dec 2025</ins>
 
 ## Projects
 ### U-Eats | [live](https://main.d20ukwqpkslt8j.amplifyapp.com/)
-- **Tech Stack**: <ins>AWS Amplify, React.js, Node.js, Stripe</ins>
-- Boosted order efficiency by 25%, reduced downtime by 20%.
+___ - **Tech Stack**: <ins>AWS Amplify, React.js, Node.js, Stripe</ins>
+___ - Boosted order efficiency by 25%, reduced downtime by 20%.
 
 
 Neuro-Transmitter
