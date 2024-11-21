@@ -3,7 +3,7 @@
 
 ## Education
 The University of Toledo, Ohio
-    B.Sc. in Computer Science | GPA: <ins>3.7</ins> | Expected <ins>Dec 2025</ins>
+B.Sc. in Computer Science | GPA: <ins>3.7</ins> | Expected <ins>Dec 2025</ins>
 **  Key Courses**: Algorithms, ML, DBMS, OS, Software Engineering
 **  YouTube**: AlgoAcez – 1500+ views, 60+ subscribers
 
