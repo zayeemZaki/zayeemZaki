@@ -1,18 +1,18 @@
-Zayeem Zaki
-📧 zayeemzaki45@gmail.com | 📞 567-801-7023 | Portfolio | GitHub | LinkedIn | Leetcode | YouTube
+# Zayeem Zaki 
+📧 zayeemzaki45@gmail.com | 📞 567-801-7023 | [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [Leetcode](https://leetcode.com/u/zayeem_zaki/) | [YouTube](https://www.youtube.com/@AlgoAcez)
 
-Education
+## Education
 The University of Toledo, Ohio
-B.Sc. in Computer Science | GPA: 3.7 | Expected Dec 2025
+B.Sc. in Computer Science | GPA: <ins>3.7</ins> | Expected <ins>Dec 2025</ins>
+**Key Courses**: Algorithms, ML, DBMS, OS, Software Engineering
+**YouTube**: AlgoAcez – 1500+ views, 60+ subscribers
 
-President’s List, Dean’s List
-Key Courses: Algorithms, ML, DBMS, OS, Software Engineering
-YouTube: AlgoAcez – 1500+ views, 60+ subscribers
-Projects
-U-Eats | Live
-AWS Amplify, React.js, Node.js, Stripe
+## Projects
+### U-Eats | [live](https://main.d20ukwqpkslt8j.amplifyapp.com/)
+-**Tech Stack**: <ins>AWS Amplify, React.js, Node.js, Stripe</ins>
+-Boosted order efficiency by 25%, reduced downtime by 20%.
 
-Boosted order efficiency by 25%, reduced downtime by 20%.
+
 Neuro-Transmitter
 iOS, Firebase, Apple App Store
 
