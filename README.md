@@ -13,28 +13,29 @@ The University of Toledo, Ohio
 -  Boosted order efficiency by 25%, reduced downtime by 20%.
 
 
-Neuro-Transmitter
-iOS, Firebase, Apple App Store
+### Neuro-Transmitter
+-**Tech Stack**: Swift, Firebase,
+-  Enhanced research efficiency by 40% using real-time chat and annotation.
 
-Enhanced research efficiency by 40% using real-time chat and annotation.
-Experience
-First Solar, Ohio
-IT Security Intern | Jul 2024 – Present
+  
+## Experience
+### First Solar, Ohio
+1. **IT Security Intern** | Jul 2024 – Present
+    - Automated CrowdStrike processes using Flask.
+    - Strengthened security with Python scripts and admin rights automation.
 
-Automated CrowdStrike processes using Flask.
-Strengthened security with Python scripts and admin rights automation.
-IT Network Intern | Apr 2024 – Jun 2024
+2. **IT Network Intern** | Apr 2024 – Jun 2024
+    - Optimized network with updated switches and servers.
+    - Enhanced security with new firewall rules.
 
-Optimized network with updated switches and servers.
-Enhanced security with new firewall rules.
-University of Toledo
-IT Student Tech | Sep 2021 – Present
+### University of Toledo
+1. **IT Student Tech** | Sep 2021 – Present
+    - Resolved 100+ IT issues efficiently.
 
-Resolved 100+ IT issues efficiently.
-Skills
-Languages: Python, Java, Swift, C++, C#, HTML, CSS, JavaScript, Rust
-Tech: Flask, Spring Boot, React, Node.js, AWS, Firebase, Swift UI, Stripe
-Databases: SQL, NoSQL, MySQL, Firestore
+## Skills
+- **Languages**: Python, Java, Swift, C++, C#, HTML, CSS, JavaScript, Rust
+- **Tech**: Flask, Spring Boot, React, Node.js, AWS, Firebase, Swift UI, Stripe
+- **Databases**: SQL, NoSQL, MySQL, Firestore
 
 🚀 Passionate about technology and innovation!
 
