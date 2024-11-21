@@ -1,3 +1,4 @@
+<pre>
 #                                           Zayeem Zaki 
 📧 zayeemzaki45@gmail.com | 📞 567-801-7023 | [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [Leetcode](https://leetcode.com/u/zayeem_zaki/) | [YouTube](https://www.youtube.com/@AlgoAcez)
 
@@ -9,8 +10,8 @@ The University of Toledo, Ohio
 
 ## Projects
 ### U-Eats | [live](https://main.d20ukwqpkslt8j.amplifyapp.com/)
-    - **Tech Stack**: <ins>AWS Amplify, React.js, Node.js, Stripe</ins>
-    - Boosted order efficiency by 25%, reduced downtime by 20%.
+-**Tech Stack**: <ins>AWS Amplify, React.js, Node.js, Stripe</ins>
+-  Boosted order efficiency by 25%, reduced downtime by 20%.
 
 
 Neuro-Transmitter
@@ -37,3 +38,5 @@ Tech: Flask, Spring Boot, React, Node.js, AWS, Firebase, Swift UI, Stripe
 Databases: SQL, NoSQL, MySQL, Firestore
 
 🚀 Passionate about technology and innovation!
+
+</pre>
