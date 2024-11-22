@@ -32,9 +32,13 @@
 🔌 **IT Network Intern** | 📅 Apr 2024 – Jun 2024  
 - ⚡ Improved network performance with updated switches and firewalls.  
 
-### 🎓 **University of Toledo**  
+### 🛡️ **University of Toledo**  
+🛠️ **Service Desk Analyst** | 📅 Sep 2021 – Present  
+- 👨‍💻 Resolved **100+ technical issues** related to hardware, software, and accounts.  
+- 📊 Delivered exceptional customer service to staff and students.  
+
 🛠️ **IT Student Tech** | 📅 Sep 2021 – Present  
-- 🔧 Resolved **100+ technical issues** for staff and students.  
+- 🔧 Provided hands-on technical support for university IT systems.  
 
 ---
 
