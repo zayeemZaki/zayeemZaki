@@ -25,13 +25,11 @@ A tool to streamline research with real-time chat and annotation.
 ---
 
 ## 💼 **Where I’ve Worked**  
-### 🌞 **First Solar**  
-- Automated security tasks with Flask and Python.  
-- Made networks faster and more secure (nerdy but true).  
+### 🌞 **First Solar**  📅 Jan 2024 – Present
+- Automated cyber security tasks with Flask and Python.  
 
-### 🛡️ **Service Desk Intern**  
-- Handled **500+ laptops** like a pro, ensuring they were ready for action.  
-- Streamlined **1000+ tickets daily**, making IT magic happen.  
+### 🎓 **University of Toledo** 📅 Sep 2021 – Present
+- 🔧 Provided hands-on technical support for university IT systems.
 
 ---
 
