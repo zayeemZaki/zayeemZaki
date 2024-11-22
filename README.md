@@ -1,42 +1,32 @@
 # **Zayeem Zaki** 🚀  
-Hi there! I’m Zayeem – a tech enthusiast who loves building, coding, and simplifying complex problems.  
+Hi! I’m Zayeem – a tech enthusiast passionate about building cool projects and solving problems.  
 
 📧 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | 📞 567-801-7023  
 🌐 [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [Leetcode](https://leetcode.com/u/zayeem_zaki/) | [YouTube](https://www.youtube.com/@AlgoAcez)  
 
 ---
 
-## 🎓 **A Bit About Me**  
-I’m currently pursuing a B.Sc. in Computer Science at the University of Toledo (GPA: **3.7**). I’m all about algorithms, software engineering, and teaching programming on my YouTube channel [AlgoAcez](https://www.youtube.com/@AlgoAcez) – 1500+ views and counting!  
+## 🎓 **About Me**  
+I’m a Computer Science student at the University of Toledo (GPA: **3.7**), with a passion for algorithms, software engineering, and sharing coding tips on [AlgoAcez](https://www.youtube.com/@AlgoAcez).  
 
 ---
 
-## 🛠️ **Things I’ve Built**  
-### 🍔 **U-Eats** ([Try it out!](https://main.d20ukwqpkslt8j.amplifyapp.com/))  
-Think Instacart but better! U-Eats lets you order food seamlessly.  
-- **Tech**: React.js, Node.js, AWS Amplify, Stripe.  
-- Result: Faster orders, less downtime, and a happy belly.  
-
-### 🧠 **Neuro-Transmitter**  
-A tool to streamline research with real-time chat and annotation.  
-- **Tech**: Swift, Firebase.  
-- Boosted research productivity by **40%**!  
+## 🛠️ **Projects**  
+- **🍔 U-Eats** ([Live Demo](https://main.d20ukwqpkslt8j.amplifyapp.com/)): Food delivery app using React.js, Node.js, AWS Amplify, and Stripe.  
+- **🧠 Neuro-Transmitter**: Research tool with real-time chat and annotation, built with Swift and Firebase.  
 
 ---
 
-## 💼 **Where I’ve Worked**  
-### 🌞 **First Solar**  📅 Jan 2024 – Present
-- Automated cyber security tasks with Flask and Python.  
-
-### 🎓 **University of Toledo** 📅 Sep 2021 – Present
-- 🔧 Provided hands-on technical support for university IT systems.
+## 💼 **Experience**  
+- **🌞 First Solar**: Automated cybersecurity tasks with Flask and Python.  
+- **🎓 University of Toledo**: Resolved IT issues and supported campus systems.  
 
 ---
 
-## 🔧 **What I Know**  
+## 🔧 **Skills**  
 Languages: Python, Java, Swift, C++, JavaScript.  
 Tech: Flask, React, Firebase, AWS, Node.js.  
 
 ---
 
-💡 Fun fact: I enjoy turning ideas into impactful projects, whether it’s a food delivery app or automating cybersecurity tasks. Let’s build something amazing together! 🌟  
+💡 Fun fact: I love turning ideas into impactful projects. Let’s create something amazing! 🌟  
