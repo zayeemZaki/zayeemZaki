@@ -3,13 +3,12 @@
 # **Zayeem Zaki** 🚀  
 Hi there! I’m Zayeem – a tech enthusiast who loves building impactful projects, cracking challenging algorithms, and sharing coding insights.  
 
-📧 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | 📞 567-801-7023  
-🌐 [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/) _(5k+ profile views!)_ | [YouTube](https://www.youtube.com/@AlgoAcez)  
+📧 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | 📞 567-801-7023 | 🌐 [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/) | [YouTube](https://www.youtube.com/@AlgoAcez)  
 
 ---
 
 ## 🌟 **Who Am I?**  
-- 📚 **Computer Science student** at the University of Toledo (**GPA: 3.7**) with a knack for **algorithms**, **software engineering**, and **cybersecurity**.  
+- 📚 **Computer Science student** (**GPA: 3.7**) with a knack for **algorithms**, **software engineering**, and **Gen AI**.  
 - 🎥 Creator of **[AlgoAcez](https://www.youtube.com/@AlgoAcez)** – a YouTube channel simplifying programming with **Python** and **LeetCode** challenges.  
 - 🔍 Problem-solving on **LeetCode** is my jam! Currently solving **[300+ problems](https://leetcode.com/u/zayeem_zaki/)** and counting.  
 
@@ -25,7 +24,6 @@ Hi there! I’m Zayeem – a tech enthusiast who loves building impactful projec
 ## 🔧 **What’s in My Toolbox?**  
 - **Languages**: Python, Java, Swift, C++, JavaScript.  
 - **Frameworks/Platforms**: Flask, React, Firebase, AWS, Node.js.  
-- 💻 **LeetCode Stats**: 300+ problems solved, **Top 10%** in contests.  
 
 ---
 
