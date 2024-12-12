@@ -3,7 +3,7 @@
 # **Zayeem Zaki** 🚀  
 Hi there! I’m Zayeem – a tech enthusiast who loves building impactful projects, cracking challenging algorithms, and sharing coding insights.  
 
-📧 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | 📞 567-801-7023 | 🌐 [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/) | [YouTube](https://www.youtube.com/@AlgoAcez)  
+📧 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | 🌐 [Portfolio](https://zayeemzaki.github.io/my-portfolio/) | [GitHub](https://github.com/ZayeemZaki/) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/) | [YouTube](https://www.youtube.com/@AlgoAcez)  
 
 ---
 
