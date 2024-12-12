@@ -16,7 +16,7 @@ Hi there! I’m Zayeem – a tech enthusiast who loves building impactful projec
 
 ## 💡 **Projects I'm Proud Of**  
 - **🍔 U-Eats** ([Live Demo](https://main.d20ukwqpkslt8j.amplifyapp.com/)): A React.js and Node.js-powered food delivery platform hosted on AWS Amplify, integrated with Stripe for payments.  
-- **🧠 Neuro-Transmitter**: An iOS research app that brings **real-time collaboration** and annotation features to life, built with **Swift** and **Firebase**.  
+- **🧠 Neuro-Transmitter** ([Apple Store](https://apps.apple.com/us/app/neuro-transmitter/id6463495879)): An iOS research app that brings **real-time collaboration** and annotation features to life, built with **Swift** and **Firebase**.  
 - **🔒 Cyber-Automator**: Streamlined cybersecurity workflows at First Solar using **Flask**, **Python**, and **CrowdStrike APIs**.  
 
 ---
