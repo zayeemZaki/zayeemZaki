@@ -3,7 +3,7 @@
 # **Zayeem Zaki**  
 Computer Science Student | Software Engineer Intern | AI & Cybersecurity Enthusiast  
 
-[zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | [Portfolio](https://zayeemzaki.com) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [GitHub](https://github.com/ZayeemZaki/)
+[zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | [Portfolio](https://zayeemzaki.com) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/)
 
 ---
 
