@@ -9,4 +9,4 @@
 
 ## 📄 **My Resume**
 
-<iframe src="https://zayeemzaki.com/resume.pdf" width="100%" height="800px"></iframe>
+<iframe src="https://www.zayeemzaki.com/resume.pdf" width="100%" height="800px"></iframe>
