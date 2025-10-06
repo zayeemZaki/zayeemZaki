@@ -9,4 +9,4 @@ Computer Science Student | Software Engineer Intern | AI & Cybersecurity Enthusi
 
 ## 📄 **My Resume**
 
-[![Resume Preview](https://zayeemzaki.com/resume-thumbnail.png)](https://zayeemzaki.com/resume.pdf)
+[![Resume Preview](https://github.com/zayeemZaki/zayeemZaki/blob/main/resume.png)](https://zayeemzaki.com/resume.pdf)
