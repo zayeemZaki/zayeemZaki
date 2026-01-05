@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ZayeemZaki&style=flat-square&color=blue)
 
 # **Zayeem Zaki**  
-Computer Science Student | Software Engineer | AI & Cybersecurity Enthusiast  
+Software Engineer | Building AI Agents & Secure Systems | Java & Python
 
 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | [Portfolio](https://zayeemzaki.com) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/)
 
