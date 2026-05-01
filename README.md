@@ -5,4 +5,4 @@ Software Engineer | Building AI Agents & Secure Systems | Java & Python
 
 [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) | [Portfolio](https://zayeemzaki.com) | [LinkedIn](https://www.linkedin.com/in/zayeem-zaki/) | [LeetCode](https://leetcode.com/u/zayeem_zaki/)
 
-[![Resume Preview](https://github.com/zayeemZaki/zayeemZaki/blob/main/resume.png)](https://zayeemzaki.com/resume.pdf)
+[![Resume Preview](https://github.com/zayeemZaki/zayeemZaki/blob/main/resume.png)](https://www.zayeemzaki.com/)
