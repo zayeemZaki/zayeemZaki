@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ZayeemZaki&style=flat-square&color=blue)
 
 # **Zayeem Zaki**  
-Founding AI Software Engineer & CEO @ [KlaimIQ](https://klaimiq.com/) | CS @ Georgia Tech
+AI Software Engineer & Founder @ [KlaimIQ](https://klaimiq.com/) | CS @ Georgia Tech
 
 - [zayeemzaki45@gmail.com](mailto:zayeemzaki45@gmail.com) 
 - [Portfolio](https://zayeemzaki.com) 
