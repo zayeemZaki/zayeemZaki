@@ -4,5 +4,5 @@
 `> Deploying scalable LLM agents & health-tech solutions.`
 
 * 🚀 **Founder:** [KlaimIQ](https://klaimiq.com/)  
-* 🛠️ **Founding Engineer:** Munchkins AI  
+* 🛠️ **Founding Engineer:** [Munchkins AI](http://munchkins.ai/)  
 * 🎓 **Education:** Online MSCS @ Georgia Tech
