@@ -5,4 +5,4 @@
 
 * 🚀 **Founder:** [KlaimIQ](https://klaimiq.com/)  
 * 🛠️ **Founding Engineer:** [Munchkins AI](http://munchkins.ai/)  
-* 🎓 **Education:** Online MSCS @ Georgia Tech
+* 🎓 **Education:** MSCS @ Georgia Tech
