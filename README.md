@@ -3,6 +3,6 @@
 # **Zayeem Zaki**  
 `> Deploying scalable LLM agents & health-tech solutions.`
 
-* 🚀 **Founder:** [KlaimIQ](https://klaimiq.com/)  
-* 🛠️ **Founding Engineer:** [Munchkins AI](http://munchkins.ai/)  
-* 🎓 **Education:** MSCS @ Georgia Tech
+> 🚀 **Founder:** [KlaimIQ](https://klaimiq.com/)  
+> 🛠️ **Founding Engineer:** [Munchkins AI](http://munchkins.ai/)  
+> 🎓 **Education:** MSCS @ Georgia Tech
